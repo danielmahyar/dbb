@@ -1,22 +1,19 @@
 {
     "tider": [
         {
-            "userId": 1,
-            "id": 1,
-            "title": "delectus aut autem",
-            "completed": false
+            "id": "1",
+            "content": "hey",
+            "status": "3"
         },
         {
-            "userId": 1,
-            "id": 2,
-            "title": "delectus aut autem",
-            "completed": false
+            "id": "2",
+            "content": "hey",
+            "status": "3"
         },
         {
-            "userId": 1,
-            "id": 3,
-            "title": "delectus aut autem",
-            "completed": false
+            "id": "3",
+            "content": "hey",
+            "status": "3"
         }
     ]
 }
