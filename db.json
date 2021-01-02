@@ -3,71 +3,51 @@
         {
             "id": "1",
             "content": "hey",
-            "timeStart": "00:00:01",
-            "timeEnd": "00:00:02",
             "status": "3"
         },
         {
             "id": "2",
             "content": "lol",
-            "timeStart": "00:00:01",
-            "timeEnd": "00:00:02",
             "status": "3"
         },
         {
             "id": "3",
             "content": "hey",
-            "timeStart": "00:00:01",
-            "timeEnd": "00:00:02",
             "status": "3"
         },
         {
             "id": "4",
             "content": "hey",
-            "timeStart": "00:00:01",
-            "timeEnd": "00:00:02",
             "status": "3"
         },
         {
             "id": "6",
             "content": "hey",
-            "timeStart": "00:00:01",
-            "timeEnd": "00:00:02",
             "status": "1"
         },
         {
             "id": "7",
             "content": "hey",
-            "timeStart": "00:00:01",
-            "timeEnd": "00:00:02",
             "status": "1"
         },
         {
             "id": "8",
             "content": "hey",
-            "timeStart": "00:00:01",
-            "timeEnd": "00:00:02",
             "status": "1"
         },
         {
             "id": "9",
             "content": "Test",
-            "timeStart": "00:00:00",
-            "timeEnd": "00:00:00",
             "status": "0"
         },
         {
             "id": "10",
             "content": "Test",
-            "timeStart": "00:00:21",
-            "timeEnd": "00:00:23",
             "status": "1"
         },
         {
             "id": "11",
             "content": "Test",
-            "timeStart": "00:00:01",
-            "timeEnd": "00:00:01",
             "status": "1"
         }
     ]
